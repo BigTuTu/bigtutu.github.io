@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bigtutu.github.io/"/>
-  <updated>2016-06-22T04:07:24.394Z</updated>
+  <updated>2016-06-22T04:11:06.312Z</updated>
   <id>http://bigtutu.github.io/</id>
   
   <author>
@@ -16,21 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>GitHub+Hexo+Next搭建免费独立个人博客</title>
     <link href="http://bigtutu.github.io/2016/06/22/GitHub-Hexo-Next%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%8B%AC%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://bigtutu.github.io/2016/06/22/GitHub-Hexo-Next搭建免费独立个人博客/</id>
-    <published>2016-06-22T04:02:27.374Z</published>
-    <updated>2016-06-22T04:07:24.394Z</updated>
+    <published>2016-06-22T04:02:27.000Z</published>
+    <updated>2016-06-22T04:11:06.312Z</updated>
     
-    <content type="html">&lt;hr&gt;
-&lt;p&gt;title: GitHub+Hexo+Next搭建免费独立个人博客&lt;br&gt;date: 2016-06-22 12:02:27&lt;br&gt;categories:&lt;br&gt;-tools&lt;br&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;github&lt;/li&gt;
-&lt;li&gt;hexo&lt;/li&gt;
-&lt;li&gt;Next&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;本文是我的第一篇博客，想来还是挺兴奋的！之前看了下CSDN的博客，太乱！又看了下新浪博客，&lt;/p&gt;
+    <content type="html">&lt;p&gt;本文是我的第一篇博客，想来还是挺兴奋的！之前看了下CSDN的博客，太乱！又看了下新浪博客，&lt;/p&gt;
 &lt;p&gt;还是太乱！还有博客园，也太乱！所以我决定自己通过GitHub+Hexo+Next搭建独立个人博客，免费独立易操作，&lt;/p&gt;
 &lt;p&gt;主要是简洁，很简洁，非常简洁！让人看着非常舒服。所以我花了一天半的时间，做了这样一件事。&lt;/p&gt;
 &lt;p&gt;教程: &lt;/p&gt;
@@ -45,6 +37,8 @@
 &lt;p&gt;eg: deploy:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;type: git
 
+
+
 repository: git@github.com:BigTuTu/bigtutu.github.io.git
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;我选择的是next主题：修改完善，可以参考官网：&lt;a href=&quot;http://theme-next.iissnan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://theme-next.iissnan.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;个人的博客的基本雏形已经有了，还有很多细节可以优化，我在后面学习中慢慢完善。&lt;/p&gt;
@@ -52,11 +46,9 @@ repository: git@github.com:BigTuTu/bigtutu.github.io.git
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: GitHub+Hexo+Next搭建免费独立个人博客&lt;br&gt;date: 2016-06-22 12:02:27&lt;br&gt;categories:&lt;br&gt;-tools&lt;br&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;github&lt;/li&gt;
-&lt;li&gt;hexo&lt;/
+      &lt;p&gt;本文是我的第一篇博客，想来还是挺兴奋的！之前看了下CSDN的博客，太乱！又看了下新浪博客，&lt;/p&gt;
+&lt;p&gt;还是太乱！还有博客园，也太乱！所以我决定自己通过GitHub+Hexo+Next搭建独立个人博客，免费独立易操作，&lt;/p&gt;
+&lt;p&gt;主要是简洁，很简洁，非常简洁！让人看着
     
     </summary>
     
