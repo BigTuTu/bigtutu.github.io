@@ -294,6 +294,17 @@
             <p>本文是我的第一篇正式博客，想来还是挺兴奋的！之前看了下CSDN的博客，太乱！又看了下新浪博客，</p>
 <p>还是太乱！还有博客园，也太乱！所以我决定自己通过GitHub+Hexo+Next搭建独立个人博客，免费独立易操作，</p>
 <p>主要是简洁，很简洁，非常简洁！让人看着非常舒服。所以我花了一天半的时间，做了这样一件事</p>
+<p>教程: </p>
+<p>下面简单说下我遇到的问题，而教程上没有的：</p>
+<p>-$ npm install -g hexo-cli安装不成功，是因为没有到对应的根目录下启动git</p>
+<p>-Localhost:4000没有作用是因为端口号被占用，通过$ hexo server -p 5000,</p>
+<p>修改端口号即可，在本地搭建</p>
+<p>-部署不成功：3.0之后版本的是git+ssh地址，还要注意空格</p>
+<p>eg: deploy:</p>
+<p>   type: git</p>
+<p>   repository: git@github.com:BigTuTu/bigtutu.github.io.git</p>
+<p>我选择的是next主题：修改完善，可以参考官网：<a href="http://theme-next.iissnan.com/" target="_blank" rel="external">http://theme-next.iissnan.com/</a></p>
+<p>个人的博客的基本雏形已经有了，还有很多细节可以优化，我在后面学习中慢慢完善。</p>
 
           
         
