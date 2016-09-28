@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bigtutu.github.io/"/>
-  <updated>2016-09-28T07:37:12.779Z</updated>
+  <updated>2016-09-28T07:43:27.695Z</updated>
   <id>http://bigtutu.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://bigtutu.github.io/2016/09/28/new/"/>
+    <id>http://bigtutu.github.io/2016/09/28/new/</id>
+    <published>2016-09-28T07:42:34.055Z</published>
+    <updated>2016-09-28T07:43:27.695Z</updated>
+    
+    <content type="html">&lt;p&gt;好好学习，天天向上！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;好好学习，天天向上！&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>GitHub-Hexo-Next搭建免费独立个人博客</title>
